@@ -5,4 +5,4 @@
 
 Head to our [website](https://lantern.io/download) or open-source [application repo](https://github.com/getlantern/lantern) for current downloads.
 
-To download more recent prior binaires, or preview upcoming features, visit our [releases](https://github.com/getlantern/lantern/releases) page.
+To see all recent binaries or preview upcoming features, visit our [releases](https://github.com/getlantern/lantern/releases) page.
